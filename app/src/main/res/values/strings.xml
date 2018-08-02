@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">androidTest1</string>
+
+    <string-array name="items">
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Oranges</item>
+    </string-array>
+    <string-array name="prices">
+        <item>€ 0.99</item>
+        <item>€ 5.50</item>
+        <item>€ 10.0</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Irish potato</item>
+        <item>Red Tomato from spain</item>
+        <item>Orange is Orange</item>
+    </string-array>
+</resources>
